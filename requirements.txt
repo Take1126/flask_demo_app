@@ -1,0 +1,11 @@
+certifi==2020.12.5
+click==7.1.2
+coverage @ file:///opt/concourse/worker/volumes/live/048b21a5-5f2e-426a-61e5-e50219147cec/volume/coverage_1608575800506/work
+Flask==1.1.2
+Flask-Script==2.0.6
+Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1596836624296/work
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/cb778296-98db-45ad-411e-6f726e102dc3/volume/markupsafe_1594371638608/work
+SQLAlchemy @ file:///opt/concourse/worker/volumes/live/60740715-d446-4164-5b0a-2e0bf83d4185/volume/sqlalchemy_1608243739201/work
+Werkzeug==1.0.1
